@@ -58,7 +58,7 @@ the building blocks hold up well enough to build on.
 
 ```
 ├── 01_referee_classifier.ipynb
-├── 02_PWHL_PID.ipynb
+├── 02_PWHL_Tracking_ID.ipynb
 └── README.md
 ```
 
