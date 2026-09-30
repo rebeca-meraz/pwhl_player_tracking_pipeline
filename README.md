@@ -1,4 +1,4 @@
-# Why Jersey Numbers Are Hard to Read in Hockey: An End-to-End Player Tracking and Identification Pipeline for PWHL Broadcast Video
+# Why Jersey Numbers Are Hard to Read in Hockey: An End-to-End Player Tracking and Identification Pipeline for PWHL Broadcast Video.
 
 An end-to-end player tracking and jersey number identification pipeline, following an
 earlier single-frame detection project into full tracklet-based tracking — built and
